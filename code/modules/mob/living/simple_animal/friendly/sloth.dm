@@ -24,6 +24,7 @@
 	health = 50
 	maxHealth = 50
 	speed = 10
+	can_be_held = TRUE
 	held_state = "sloth"
 	pet_bonus = TRUE
 	pet_bonus_emote = "slowly smiles!"
